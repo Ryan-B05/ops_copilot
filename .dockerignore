@@ -1,0 +1,16 @@
+.venv
+.git
+.gitignore
+
+.env
+.env.local
+.env.production
+
+__pycache__
+*.pyc
+
+.DS_Store
+*.log
+
+_original
+images

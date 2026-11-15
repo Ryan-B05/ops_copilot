@@ -1,0 +1,17 @@
+.venv/
+.env
+.env.local
+.env.production
+
+__pycache__/
+*.pyc
+
+.DS_Store
+
+.idea/
+.vscode/
+
+*.log
+
+# local backup of files before cleanup
+_original/
